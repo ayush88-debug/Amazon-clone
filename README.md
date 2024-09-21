@@ -8,9 +8,9 @@ This repository contains the code for a **fully responsive Amazon clone webpage*
 - [Technologies Used](#technologies-used)
 
 ## Demo
-
-![Amazon Clone Screenshot](./assets/demo.pn)  
-[Live Demo](https://ayush88-debug.github.io/Amazon-clone/) 
+[Live Demo](https://ayush88-debug.github.io/Amazon-clone/) <br><br>
+![Amazon Clone Screenshot](./assets/demo1.png) <br><br>
+![Amazon Clone Screenshot](./assets/demo2.png)  
 
 ## Features
 
